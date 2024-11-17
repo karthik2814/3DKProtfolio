@@ -31,8 +31,8 @@ import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
-import infosys from "./company/infosys_logo.png";
-import JNet from "./company/Jnet.png";
+import infosys from "./company/Infosys_logo.png";
+import JNet from "./company/JNet.png";
 import ICICI from "./company/iciciLombard.jpeg";
 import Cyient from "./company/cyient.png";
 import printmind from "./company/pm.jpg"
